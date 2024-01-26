@@ -1,0 +1,64 @@
+.gpt_features-container_features{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    margin: 1rem;
+}
+
+.gpt_features_heading{
+    flex: 1;
+    max-width: 180px;
+    margin-right: 2rem;
+}
+
+.gpt_features_heading h1{
+    color: #FFF;
+    font-family: var(--font-family);
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 24px; /* 312.5% */
+    letter-spacing: -0.96px;
+}
+
+.gpt_features_heading div{
+    width: 38px;
+height: 3px;
+flex-shrink: 0;
+background: var(--gradient-bar);
+box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+margin-bottom: 0.25rem;
+}
+
+.gpt_features_text{
+flex: 2;
+max-width: 380px;
+display: flex;
+}
+
+.gpt_features_text p{
+    color: var(--color-text);
+    font-family: var(--font-family);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+
+}
+
+@media screen and(max-width:550px) {
+    .gpt_features_heading h1{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    
+.gpt_features_text p{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    
+.gpt_features-container_features{
+    margin: 1rem 0;
+
+}
+} 

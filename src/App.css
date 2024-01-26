@@ -23,6 +23,8 @@ a {
 .gradient_text {
   background: var(--gradient-text);
   background-clip: text;
+  --webkit-background-clap: text;
+  -webkit-text-fill-color: transparent ;
 }
 
 .section_padding {
