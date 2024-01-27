@@ -6,6 +6,7 @@
     flex-direction: row;
 
     padding: 3rem ;
+    margin: 4rem;
     border-radius: 1rem ;
     background: var(--gradient-bar);
 
@@ -68,9 +69,14 @@
         font-size: 16px;
         line-height: 32px;
     }
+    .gpt_cta_btn{
+        margin-left: 0rem;
+        
+    }
     .gpt_cta_btn button{
         font-size: 14px;
         line-height: 28px;
+        margin-left: 0rem;
         
     }
 

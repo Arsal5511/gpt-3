@@ -4,7 +4,7 @@ import './possibility.css'
 
 function Possibility() {
     return (
-        <div className='gpt_possibility section_padding' id='possibility'>
+        <div className='gpt_possibility section_padding' id='Possibility'>
             <div className='gpt_possibility_img'>
                 <img src={possibilityImage} alt='possibility-Img' />
             </div>

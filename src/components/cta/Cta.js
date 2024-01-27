@@ -3,7 +3,7 @@ import './cta.css'
 
 function Cta() {
     return (
-        <div className='gpt_cta section_margin'>
+        <div className='gpt_cta '>
             <div className='gpt_cta_content'>
                 <p>Request Early Access to Get Started</p>
                 <h3>Register today & start exploring the endless possiblities.</h3>
