@@ -19,10 +19,10 @@ function Footer() {
             </div>
             <div className='gpt_footer_links_div'>
                 <h3>Links</h3>
-                <a href='https//https://www.facebook.com/arsal5511/'>Facebook</a>
-                <a href='https://github.com/Arsal5511'>Github</a>
-                <a href='https//https://www.linkedin.com/in/arsal5511/'>LinkedIn</a>
-                <a href='https//https://www.instagram.com/arsal5511/'>Instagram</a>
+                <a href='https://www.facebook.com/arsal5511/' target='blank'>Facebook</a>
+                <a href='https://github.com/Arsal5511' target='blank'>Github</a>
+                <a href='https://www.linkedin.com/in/arsal5511/' target='blank'>LinkedIn</a>
+                <a href='https://www.instagram.com/arsal5511/' target='blank'>Instagram</a>
             </div>
             <div className='gpt_footer_links_div'>
             <h3>Company</h3>
